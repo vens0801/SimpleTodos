@@ -1,0 +1,14 @@
+.todoItem {
+  display: flex;
+  justify-content: space-between;
+}
+
+.del-button{
+  background-color: white;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  width: 100px;
+  height: 35px;
+  border-radius: 12px;
+  align-self: center;
+}
